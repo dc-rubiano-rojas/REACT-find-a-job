@@ -23,7 +23,8 @@ import {
   JobAbout,
   JobFooter,
   JobTabs,
-  ScreenHeaderBtn
+  ScreenHeaderBtn,
+  Specifics,
 } from '../../components'
 
 import { COLORS, SIZES, icons } from "../../constants";
